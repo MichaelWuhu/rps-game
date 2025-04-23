@@ -1,5 +1,8 @@
 # RPS Game
 
+### Data used:
+https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors/data
+
 ## 🔧 Dev Environment Setup
 ### Frontend
 1. Navigate to the frontend directory
