@@ -40,12 +40,17 @@ venv\Scripts\activate
 ```
 </details>
 
-3. Run the backend
+3. Install dependencies
+```
+pip install -r requirements
+```
+
+4. Run the backend
 ```
 python main.py
 ```
 
-4. If you need to exit the VENV
+5. If you need to exit the VENV
 ```
 deactivate
 ```
